@@ -15,6 +15,7 @@
 #
 
 metadata:
+  namespace: spring-boot-ns
   labels:
     project: ${project.artifactId}
     hystrix.enabled: true

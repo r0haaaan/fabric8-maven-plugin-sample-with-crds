@@ -1,4 +1,3 @@
----
 apiVersion: jungle.example.com/v1
 kind: Animal
 metadata:

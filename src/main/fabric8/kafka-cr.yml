@@ -2,8 +2,8 @@ apiVersion: kafka.strimzi.io/v1beta1
 kind: Kafka
 metadata:
   generation: 4
-  name: debezium-kafka-cluster
-  namespace: default
+  name: sample-kafka-cluster
+  namespace: spring-boot-ns
 spec:
   entityOperator:
     topicOperator: {}
